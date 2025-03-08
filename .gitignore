@@ -119,3 +119,4 @@ media/
 
 upstream/*.log
 downstream/*.csv
+dataset/*.BIN
