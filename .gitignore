@@ -117,5 +117,5 @@ media/
 # !**/migrations
 # !**/migrations/__init__.py
 
-logs/*.log
-outputs/*.csv
+upstream/*.log
+downstream/*.csv

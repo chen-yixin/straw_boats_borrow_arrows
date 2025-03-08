@@ -1,6 +1,6 @@
 # 定义输入文件路径和输出CSV文件路径
-$inputFiles = Get-ChildItem -Path ".\logs" -Filter "fakessh*.log"
-$outputCsv = ".\outputs\fakessh_ps.csv"
+$inputFiles = Get-ChildItem -Path ".\upstream" -Filter "fakessh*.log"
+$outputCsv = ".\downstream\output_2.csv"
 
 # 初始化一个数组来存储结果
 $results = @()
