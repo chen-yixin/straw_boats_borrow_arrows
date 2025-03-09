@@ -1,1 +1,2 @@
 IP2Location==8.10.4
+pandas==2.2.3
